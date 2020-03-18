@@ -32,7 +32,8 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Cmd + F | Find: searchs the current terminal window and the entire scroll back buffer
 | Cmd + G | Find Next: searchs the current terminal window and the entire scroll back buffer
 | Cmd + ↑    | Scroll back up to the previous command |
-|Cmd + Shift + A | selects the output of the previous command (change selected command with ⌘↑) |
+| Cmd + ↓    | Scroll down to the next command |
+|Cmd + Shift + A | Selects the output of the previous command (change selected command with ⌘↑/⌘↓) |
 | Cmd + Ctrl + V | Paste pasteboard text fully escaped (including spaces) |
 | Cmd + R | Toggle mouse reporting |
 | Ctrl + U   | Cut everything backwards to beginning of line |
