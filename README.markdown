@@ -29,6 +29,12 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Ctrl + E   | Go to the end of the line you are currently typing on.  This also works for most text input fields system wide.  Netbeans being one exception |
 | Ctrl + L   | Clears the Screen |
 | Cmd + K    | Clears the Screen |
+| Cmd + F | Find: searchs the current terminal window and the entire scroll back buffer
+| Cmd + G | Find Next: searchs the current terminal window and the entire scroll back buffer
+| Cmd + ↑    | Scroll back up to the previous command |
+|Cmd + Shift + A | selects the output of the previous command (change selected command with ⌘↑) |
+| Cmd + Ctrl + V | Paste pasteboard text fully escaped (including spaces) |
+| Cmd + R | Toggle mouse reporting |
 | Ctrl + U   | Cut everything backwards to beginning of line |
 | Ctrl + K   | Cut everything forward to end of line |
 | Ctrl + W   | Cut one word backwards using white space as delimiter |
